@@ -1,0 +1,121 @@
+# ╔══════════════════════════════════════════════╗
+# ║ Code indentation is important in YAML files! ║
+# ╚══════════════════════════════════════════════╝
+#
+# title       : title in navigation
+# relative_url: permalink of the page
+# children    : subpages
+-
+  title: Discover
+  # permalink: discover/
+  children:
+    -
+      title: Opdrachtomschrijving
+      permalink: discover/opdrachtomschrijving/
+    -
+      title: Proto-persona's
+      permalink: discover/proto-personas/
+    -
+      title: Interview Guideline
+      permalink: discover/interview-guideline/
+    -
+      title: Persona's
+      permalink: discover/personas/
+-
+  title: Define
+  # permalink: define/
+  children:
+    -
+      title: Planning
+      permalink: define/planning/
+    -
+      title: How might we …
+      permalink: define/how-might-we-vragen/
+    -
+      title: Elevator Pitch
+      permalink: define/elevator-pitch/
+-
+  title: Ideate
+  # permalink: ideate/
+  children:
+    -
+      title: Brainstorm
+      permalink: ideate/brainstorm/
+    -
+      title: Style Tiles
+      permalink: ideate/style-tiles/
+-
+  title: Prototype
+  # permalink: prototype/
+  children:
+    -
+      title: Smartphone-app
+      # permalink: prototype/smartphone/
+      children:
+        -
+          title: Paper Prototype
+          permalink: prototype/smartphone/paper/
+        -
+          title: Digital Prototype
+          permalink: prototype/smartphone/digital/
+    -
+      title: 2nd Screen-app
+      # permalink: prototype/2nd-screen/
+      children:
+        -
+          title: Paper Prototype
+          permalink: prototype/2nd-screen/paper/
+        -
+          title: Digital Prototype
+          permalink: prototype/2nd-screen/digital/
+    -
+      title: Website
+      # permalink: prototype/website/
+      children:
+        -
+          title: Digital Prototype
+          permalink: prototype/website/digital/
+-
+  title: Implementation
+  # permalink: implementation/
+  children:
+    -
+      title: UI Style Guide
+      # permalink: prototype/ui-style-guide/
+      children:
+        -
+          title: Afbeeldingen
+          permalink: implementation/ui-style-guide/afbeeldingen/
+        -
+          title: Formulieren
+          permalink: implementation/ui-style-guide/formulieren/
+        -
+          title: Kleuren
+          permalink: implementation/ui-style-guide/kleuren/
+        -
+          title: Navigatie
+          permalink: implementation/ui-style-guide/navigatie/
+        -
+          title: Typografie
+          permalink: implementation/ui-style-guide/typografie/
+# -
+#   title: Develop
+#   # permalink: develop/
+#   children:
+-
+  title: Deliver
+  # permalink: deliver/
+  children:
+    -
+      title: Timesheets
+      # permalink: deliver/timesheets/
+      children:
+        -
+          title: Student 1
+          permalink: deliver/timesheets/student-1/
+        -
+          title: Student 2
+          permalink: deliver/timesheets/student-2/
+# -
+#   title: Deploy
+#   # permalink: deploy/
