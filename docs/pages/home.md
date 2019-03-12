@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?
+ - Jorne Vanroy, 2CMO-F
+ - Lennert De Ryck, 2CMO-F
