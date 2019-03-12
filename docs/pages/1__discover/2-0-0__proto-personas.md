@@ -7,8 +7,10 @@ published: true
 title: Proto-persona's
 ---
 
-## «Naam-proto-persona-A»
+## «Cédric Laporte»
 
-## «Naam-proto-persona-B»
+## «»
 
-## «Naam-proto-persona-C»
+## «Franky Verhaege»
+
+## «»
