@@ -40,7 +40,7 @@ In `docs/_config.yml` pas je de `baseurl` aan, van:
 baseurl: /1819-nmd3-project # the subpath of your site, e.g. /blog
 ```
 
-naar `/«repositorynaam»` (bv. `/1819-nmd3-project-OlivierParent`):
+naar `/«repositorynaam»` (bv. `/1819-nmd3-project-Docenten`):
 
 ```
 # Site settings
@@ -54,5 +54,5 @@ Op GitHub ga je naar je repository en klik op **Settings**. Scroll naar beneden 
 
 ### Voorbeeldsite
 
- - Basissjabloon <https://gdmgent-1819-nmd3.github.io/1819-nmd3-project>
- - Persoonlijke repo van Olivier Parent <https://gdmgent-1819-nmd3.github.io/1819-nmd3-project-OlivierParent>
+ - Basissjabloon <https://gdmgent-1819-nmd3.github.io/1819-nmd3-project-master>
+ - Persoonlijke repo van Olivier Parent <https://gdmgent-1819-nmd3.github.io/1819-nmd3-project-Docenten>
