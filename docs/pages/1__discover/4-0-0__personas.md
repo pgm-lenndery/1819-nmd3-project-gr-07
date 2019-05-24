@@ -7,8 +7,4 @@ published: true
 title: Persona's
 ---
 
-## «Naam-persona-A»
-
-## «Naam-persona-B»
-
-## «Naam-persona-C»
+<object width="100%" height="100%" data="../../assets/files/personas.pdf"></object>
