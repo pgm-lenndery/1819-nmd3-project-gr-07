@@ -14,24 +14,24 @@ title: Proto-persona's
 
 ## Michiel De Karel, 39 jaar oud
 
-<p>Michiel is een getrouwde man en is chef te Colruyt. Hij heeft ook kinderen en vindt dat zij meer buiten moeten komen en actiever moeten worden. Hij is ook zeer sportief en doet atletiek in zijn vrije tijd. Hij gaat soms zelf lopen in het Domein van Huizingen.</p>
-<strong>Pluspunt:</strong> Mits hij soms gaat lopen in het Domein van Huizingen, zou hij zijn kinderen mee kunnen nemen om mee te sporten.
+<p>Michiel is een getrouwde man en is chef te Colruyt. Hij heeft ook kinderen en vindt dat zij meer buiten moeten komen en actiever moeten worden. Hij is ook zeer sportief en doet atletiek in zijn vrije tijd. Hij gaat soms zelf lopen in het Domein van Huizingen.</p><br>
+<strong>Pluspunt:</strong> Mits hij soms gaat lopen in het Domein van Huizingen, zou hij zijn kinderen mee kunnen nemen om mee te sporten.<br>
 <strong>Minpunt:</strong> Kinderen sporten liever met vrienden in plaats van met hun ouders.
 
 ## Julie Sobers, 19 jaar oud
 
-<p>Julie is de dochter van Michiel. Zij wilt sportiever zijn maar heeft daar weinig tijd voor. Zij heeft een relatie en studeert nog verder. In haar vrije tijd gaat ze tenissen met haar vriendinnen. Doordat ze teveel huiswerk heeft, kan ze niet vaak gaan sporten. Ze hoopt in de toekomst met haar vriend een eigen tennisschool op te richten.</p>
-<strong>Pluspunt:</strong> Ze is sportief en zou eventueel tenniscoach kunnen worden in het Domein van Huizingen.
+<p>Julie is de dochter van Michiel. Zij wilt sportiever zijn maar heeft daar weinig tijd voor. Zij heeft een relatie en studeert nog verder. In haar vrije tijd gaat ze tenissen met haar vriendinnen. Doordat ze teveel huiswerk heeft, kan ze niet vaak gaan sporten. Ze hoopt in de toekomst met haar vriend een eigen tennisschool op te richten.</p><br>
+<strong>Pluspunt:</strong> Ze is sportief en zou eventueel tenniscoach kunnen worden in het Domein van Huizingen.<br>
 <strong>Minpunt:</strong> Julie heeft niet veel tijd en wilt haar relatie niet op het spel zetten voor haar hobby.
 
 ## Dielan Cromka, 16 jaar oud
 
-<p>Dielan is, zoals ze op zijn school zeggen, "een echt model". Hij gaat vaak uit in Lot en gaat vaak sporten in zijn vrije tijd. Naast school en sport is hij ook veel bezig met foto's nemen. Hij wilt namelijk model worden. Hij kent het Domein van Huizingen niet echt, omdat hij altijd gaat sporten in de sportschool van Lot.</p>
-<strong>Pluspunt:</strong> Hij is zeer sportief en heeft genoeg tijd, hij zou met zijn vrienden eens kunnen gaan sporten in het Domein in plaats van de sportschool.
+<p>Dielan is, zoals ze op zijn school zeggen, "een echt model". Hij gaat vaak uit in Lot en gaat vaak sporten in zijn vrije tijd. Naast school en sport is hij ook veel bezig met foto's nemen. Hij wilt namelijk model worden. Hij kent het Domein van Huizingen niet echt, omdat hij altijd gaat sporten in de sportschool van Lot.</p><br>
+<strong>Pluspunt:</strong> Hij is zeer sportief en heeft genoeg tijd, hij zou met zijn vrienden eens kunnen gaan sporten in het Domein in plaats van de sportschool.<br>
 <strong>Minpunt:</strong> Dielan denkt dat het Domein van Huizingen saai is.
 
 ## Lieven Grafa, 27 jaar
 
-<p>Lieven is net getrouwd en wilt van het leven genieten met zijn vrouw. Hij is politieagent en kent veel mensen rond Buizingen. Naast zijn job, probeert hij zijn conditie in orde te houden en sterk voor de dag te komen, hij beoefent Kung Fu in Halle.</p>
-<strong>Pluspunt:</strong> Hij kent het Domein goed, misschien zou hij Kung Fu lessen kunnen, één keer per week.
+<p>Lieven is net getrouwd en wilt van het leven genieten met zijn vrouw. Hij is politieagent en kent veel mensen rond Buizingen. Naast zijn job, probeert hij zijn conditie in orde te houden en sterk voor de dag te komen, hij beoefent Kung Fu in Halle.</p><br>
+<strong>Pluspunt:</strong> Hij kent het Domein goed, misschien zou hij Kung Fu lessen kunnen, één keer per week.<br>
 <strong>Minpunt: </strong> Lieven vindt het Domein maar niets, er is niet genoeg avontuur voor iemand die zeer actief is.
