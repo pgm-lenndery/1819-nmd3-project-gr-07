@@ -40,8 +40,14 @@ a, * {
         color: white;
     }
 
-    .gdm-nav-level-home:not(.active) > i {
-        color: var(--accent-2);
+    #containerNav > nav > a.nav-link.gdm-nav-level-home.active.pl-2 > svg, #containerNav > nav > a.nav-link.gdm-nav-level-home.active.pl-2 > svg *, #containerNav > nav > a.nav-link.gdm-nav-level-home.active.pl-2 > svg, #containerNav > nav > a.nav-link.gdm-nav-level-home.active.pl-2 > svg * {
+        color: white;
+        transform: scale(0.9);
+        transform-origin: center center;
+    }
+
+    #containerNav > nav > a.nav-link.gdm-nav-level-home.active.pl-2 > span {
+        color: white;
     }
     
     nav.gdm-nav {
@@ -53,8 +59,8 @@ a, * {
     nav.gdm-nav::-webkit-scrollbar-track {
         background-color: rgba(168, 167, 167, 0);
     }
-    nav.gdm-nav::-webkit-scrollbar {
-        background-color: bold;
+    nav.gdm-nav::-webkit-scrollbar-thumb {
+        background-color: var(--accent-main);
     }
 
     // NAV LINK
