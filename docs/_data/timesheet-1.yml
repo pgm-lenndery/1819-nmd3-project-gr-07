@@ -1,28 +1,28 @@
-# ╔═══════════╗
-# ║ Student 1 ║
-# ╚═══════════╝
+# ╔══════════════╗
+# ║ Jorne Vanroy ║
+# ╚══════════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1
+  task: Proto personas.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Enquête.
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 5
+  task: Personas ontwerpen.
 -
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Planning.
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 0.50
+  task: Pitch.
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Style tile.
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 6
+  task: Opmaak wireframes/paper prototype.
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 7
+  task: Invullen digitaal dossier.
