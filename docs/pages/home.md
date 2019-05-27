@@ -12,7 +12,7 @@ Wie zijn we?
 
 <div class="begin">
   <div class="wij">
-    <img src="1819-nmd3-project-gr-07\docs\assets\images\jornevanroy.jpg" class="voorstelling-pic">
+    <img src="\1819-nmd3-project-gr-07\docs\assets\images\jornevanroy.jpg" class="voorstelling-pic">
     <div class="naam">Jorne Vanroy - student 2CMO-GD
     </div>
   </div>
