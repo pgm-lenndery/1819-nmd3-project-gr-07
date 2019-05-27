@@ -52,7 +52,7 @@ a, * {
     
     nav.gdm-nav {
         background-color: white;
-        height: 100%;
+        height: calc(100% - 89px - 100px);
     }
 
     // SCROLLBAR
