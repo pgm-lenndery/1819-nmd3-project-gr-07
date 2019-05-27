@@ -29,7 +29,7 @@ title: Planning
 <strong><p>27 maart</p></strong>
 <p> Pitch aanpassen en verder brainstormen</p>
 
-<strong><p>8 april</strong></p></strong>
+<strong><p>8 april</p></strong>
 <p> Style tile</p>
 
 <strong><p>10 april</p></strong>
