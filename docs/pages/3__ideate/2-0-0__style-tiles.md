@@ -7,12 +7,4 @@ published: true
 title: Style Tiles
 ---
 
-> ## Wat is een style tile?
-> <http://styletil.es/>{:}
-
-
-## Gekozen
-
-## Alternatief A
-
-## Alternatief B
+<object width="100%" height="100%" data="../../assets/files/styletile.pdf"></object>
