@@ -119,6 +119,12 @@ span.txt-color-white svg {
     background-position-x: right;
 }
 
+/* ICONS FEATHER */
+
+    svg.feather {
+        color: var(--accent-2);
+    }
+
 /* MEDIA QUERIES */
 
 @media (min-width: 992px) {
