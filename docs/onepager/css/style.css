@@ -1,0 +1,128 @@
+:root {
+    --accent-main: #128C8F;
+    --accent-1: #91B508;
+    --accent-2: #3C3C3B;
+    --accent-3: rgb(119, 118, 118);
+    --accent-4: #ACACAC;
+    --accent-5: #EAEAEA;
+    --accent-6: #e9ecef;
+    
+    --border-radius: 39px;
+    --font-main: 'Din Pro';
+
+    --shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.3);;
+}
+
+.larger svg{
+    --dimensions: 50px;
+    height: var(--dimensions);
+    width: var(--dimensions);
+}
+
+* {
+    transition: 0.35s all ease;
+    font-family: var(--font-main);
+}
+
+body {
+    /* padding-bottom: 50px; */
+}
+
+a, p, h1, h2, h3, h4, h5, h6 {
+    color: var(--accent-2);
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+h1 {
+    font-weight: 900;
+    margin-bottom: 7px;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+h3 + p {
+    margin-top: 21px;
+}
+
+span.txt-color-white svg {
+    color: white !important;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+/* ****************** */
+
+.jumbotron#intro {
+    height: 100vh;
+    margin-bottom: 100px;
+}
+
+.section {
+    height: 100vh;
+}
+
+/* CONTAINER */
+
+    .container.section {
+        height: 100vh;
+    /* margin-bottom: 100px; */
+    }
+
+/* ROW */
+
+    .row.section {
+        margin-bottom: 50px;
+    }
+
+/* BACKHALF */
+
+    div.backhalf {
+        background-color: var(--accent-6);
+        height: 200px;
+    }
+
+/* FLOAT BOX */
+
+    div.backhalf + .float-box {
+        margin-top: -100px;
+    }
+
+    .float-box {
+        background-color: white;
+        box-shadow: var(--shadow);
+        border-radius: var(--border-radius);
+        padding: 50px;
+    }
+
+/* SECTION WIFI */
+
+#wifi {
+    background-image: url(../assets/images/CAT.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: right;
+}
+
+/* SECTION DOWNLOAD */
+
+#bg-phones {
+    background-image: url(../assets/images/mockup/MOCKUP_COMBO.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: right;
+}
+
+/* MEDIA QUERIES */
+
+@media (min-width: 992px) {
+    /* .container {
+        max-width: 860px;
+    }*/
+}

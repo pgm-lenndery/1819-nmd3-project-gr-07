@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1186" height="737.822" viewBox="0 0 1186 737.822">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #91b508;
+        stroke: #91b508;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11px;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-7 {
+        fill: #3c3c3b;
+      }
+
+      .cls-3 {
+        font-size: 55px;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: DINPro-Bold, DIN Pro;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-7 {
+        font-family: DINPro, DIN Pro;
+      }
+
+      .cls-4 {
+        font-weight: 400;
+      }
+
+      .cls-5 {
+        font-size: 51px;
+        font-family: DINPro-Black, DIN Pro;
+        font-weight: 800;
+      }
+
+      .cls-5, .cls-6 {
+        letter-spacing: 0.14em;
+      }
+
+      .cls-6 {
+        fill: #128c8f;
+        font-size: 48px;
+      }
+
+      .cls-7 {
+        font-size: 35px;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_38);
+      }
+
+      .cls-9 {
+        filter: url(#hexagon);
+      }
+    </style>
+    <filter id="hexagon" x="417" y="0" width="351.213" height="364.714" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="37" result="blur"/>
+      <feFlood flood-opacity="0.455"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_38" x="0" y="71.822" width="1186" height="666" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="37" result="blur-2"/>
+      <feFlood flood-opacity="0.243"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_139" data-name="Group 139" transform="translate(53 -1293.178)">
+    <g id="Group_136" data-name="Group 136" transform="translate(0 -112)">
+      <g class="cls-9" transform="matrix(1, 0, 0, 1, -53, 1405.18)">
+        <path id="hexagon-2" data-name="hexagon" class="cls-1" d="M121.213,93.933V41.393a13.135,13.135,0,0,0-6.567-11.362L68.674,3.762a13.135,13.135,0,0,0-13.135,0L9.567,30.031A13.135,13.135,0,0,0,3,41.393V93.933a13.135,13.135,0,0,0,6.567,11.362l45.972,26.27a13.135,13.135,0,0,0,13.135,0l45.972-26.27A13.135,13.135,0,0,0,121.213,93.933Z" transform="translate(530.5 114.69)"/>
+      </g>
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, -53, 1405.18)">
+        <rect id="Rectangle_38-2" data-name="Rectangle 38" class="cls-2" width="964" height="444" rx="63" transform="translate(111 182.82)"/>
+      </g>
+      <text id="Hoera_Je_hebt_recht_op_een_gratis_ticket_" data-name="Hoera!
+Je hebt recht op een gratis ticket!" class="cls-3" transform="translate(117 1676)"><tspan x="338.195" y="56">Hoera!</tspan><tspan class="cls-4"><tspan x="16.39" y="123">Je hebt recht op een gratis ticket!</tspan></tspan></text>
+      <g id="Group_38" data-name="Group 38" transform="translate(-454.529 1436.012)">
+        <g id="Group_20" data-name="Group 20" transform="translate(935.029 85.862)">
+          <path id="hexagon-3" data-name="hexagon" class="cls-1" d="M121.213,93.933V41.393a13.135,13.135,0,0,0-6.567-11.362L68.674,3.762a13.135,13.135,0,0,0-13.135,0L9.567,30.031A13.135,13.135,0,0,0,3,41.393V93.933a13.135,13.135,0,0,0,6.567,11.362l45.972,26.27a13.135,13.135,0,0,0,13.135,0l45.972-26.27A13.135,13.135,0,0,0,121.213,93.933Z" transform="translate(-3 -2.002)"/>
+          <g id="Group_18" data-name="Group 18" transform="translate(25.801 30.002)">
+            <text id="_45" data-name="45" class="cls-5" transform="translate(32 53)"><tspan x="-31.926" y="0">45</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="NU_CLAIMEN" data-name="NU CLAIMEN" class="cls-6" transform="translate(540 1788)"><tspan x="-171.264" y="0">NU CLAIMEN</tspan></text>
+    <text id="of_swipe_mij_weg_en_claim_het_later" data-name="of swipe mij weg en claim het later" class="cls-7" transform="translate(112 1833)"><tspan x="159.2" y="34">of swipe mij weg en claim het later</tspan></text>
+  </g>
+</svg>

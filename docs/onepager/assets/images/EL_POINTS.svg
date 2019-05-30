@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370.214" height="410.045" viewBox="0 0 370.214 410.045">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #91b508;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11px;
+      }
+
+      .cls-2 {
+        fill: #3c3c3b;
+        font-size: 157px;
+        font-family: DINPro-Black, DIN Pro;
+        font-weight: 800;
+        letter-spacing: 0.14em;
+      }
+    </style>
+  </defs>
+  <g id="Group_138" data-name="Group 138" transform="translate(-929.529 -80.362)">
+    <g id="Group_20" data-name="Group 20" transform="translate(935.029 85.862)">
+      <path id="hexagon" class="cls-1" d="M362.214,281.35V121.7a39.912,39.912,0,0,0-19.956-34.524L202.563,7.349a39.913,39.913,0,0,0-39.913,0L22.956,87.175A39.913,39.913,0,0,0,3,121.7V281.35a39.913,39.913,0,0,0,19.956,34.524L162.65,395.7a39.913,39.913,0,0,0,39.913,0l139.694-79.825A39.912,39.912,0,0,0,362.214,281.35Z" transform="translate(-3 -2.002)"/>
+      <g id="Group_18" data-name="Group 18" transform="translate(78.402 91.166)">
+        <text id="_27" data-name="27" class="cls-2" transform="translate(98 162)"><tspan x="-98.282" y="0">27</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
