@@ -1,4 +1,49 @@
-:root {
+---
+layout   : default
+permalink: implementation/ui-style-guide/typografie/
+published: true
+# Custom Page Variables
+# ─────────────────────
+title: Typografie
+---
+<div id="uiStyleGuide" class="container py-5">
+            <div class="row mb-3">
+                <div class="col">
+                    <p class="mb-2">Font</p>
+                    <p class="mb-0 fontw-700">DIN Pro</p>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-4">
+                    <p class="mb-2">Opmerkingen, details over ...</p>
+                    <p class="small">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit iusto nihil eos ut voluptates. Praesentium dolore eveniet consequuntur esse eligendi commodi repellendus exercitationem! Et, dolorem! Dolor unde repellendus sapiente dicta?
+                    </p>
+                </div>
+                <div class="col-4">
+                    <p class="mb-2">Gewone paragraaf, bodytext</p>
+                    <p class="paragraph">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat placeat quod quasi id repellat! Assumenda incidunt, vel vero, magnam voluptate, numquam distinctio ad temporibus similique corporis doloribus autem. Dolores, natus?
+                    </p>
+                </div>
+                <div class="col-4">
+                    <p class="mb-2">Opvallende tekst, aankondiging</p>
+                    <p class="big">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, perferendis!
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p class="mb-2">Titels</p>
+                    <h2 class="fontw-700">Grote titel</h2>
+                    <h6 class="title-sm">Kleine titel</h6>
+                </div>
+            </div>
+</div>
+
+<style>
+    :root {
     --accent-main: #128C8F;
     --accent-1: #91B508;
     --accent-2: #3C3C3B;
@@ -13,119 +58,7 @@
 
     --shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.3);;
 }
-
-.larger svg{
-    --dimensions: 50px;
-    height: var(--dimensions);
-    width: var(--dimensions);
-}
-
-* {
-    transition: 0.35s all ease;
-    font-family: var(--font-main) !important;
-    /* font-family: 'Din Pro' !important; */
-    box-sizing: border-box;
-}
-
-body {
-    /* padding-bottom: 50px; */
-}
-
-a, p, h1, h2, h3, h4, h5, h6 {
-    color: var(--accent-2);
-}
-
-p {
-    font-size: 1.2rem;
-}
-
-h1 {
-    font-weight: 900;
-    margin-bottom: 7px;
-}
-
-h3 {
-    font-weight: 700;
-}
-
-h3 + p {
-    margin-top: 21px;
-}
-
-span.txt-color-white svg {
-    color: white !important;
-}
-
-.clickable {
-    cursor: pointer;
-}
-
-.bd-radius-sm {
-    border-radius: var(--border-radius-sm);
-}
-
-/* ****************** */
-
-.jumbotron#intro {
-    height: 100vh;
-    margin-bottom: 100px;
-}
-
-.section {
-    height: 100vh;
-}
-
-/* CONTAINER */
-
-    .container.section {
-        height: 100vh;
-    /* margin-bottom: 100px; */
-    }
-
-/* ROW */
-
-    .row.section {
-        margin-bottom: 50px;
-    }
-
-/* FLOAT BOX */
-
-    div.backhalf + .float-box {
-        margin-top: -100px;
-    }
-
-    .float-box {
-        background-color: white;
-        box-shadow: var(--shadow);
-        border-radius: var(--border-radius);
-        padding: 50px;
-    }
-
-/* SECTION WIFI */
-
-#wifi {
-    background-image: url(../assets/images/CAT.gif);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position-x: right;
-}
-
-/* SECTION DOWNLOAD */
-
-#bg-phones {
-    background-image: url(../assets/images/mockup/MOCKUP_COMBO.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position-x: right;
-}
-
-/* ICONS FEATHER */
-
-    svg.feather {
-        color: var(--accent-2);
-    }
-
-/* UI STYLE GUIDE */
+    /* UI STYLE GUIDE */
     /* FORMS */
         :focus {
             box-shadow: none;
@@ -229,11 +162,4 @@ span.txt-color-white svg {
             letter-spacing: 2px;
             font-size: small;
         }
-
-/* MEDIA QUERIES */
-
-@media (min-width: 992px) {
-    /* .container {
-        max-width: 860px;
-    }*/
-}
+</style>

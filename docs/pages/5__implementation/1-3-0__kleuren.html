@@ -1,4 +1,28 @@
-:root {
+---
+layout   : default
+permalink: implementation/ui-style-guide/kleuren/
+published: true
+# Custom Page Variables
+# ─────────────────────
+title: Kleuren
+---
+
+<div id="uiStyleGuide" class="container py-5">
+<div class="row mb-5">
+    <div class="col">
+        <div class="d-flex flex-row">
+            <div class="kleur mr-4" style="background-color: #128C8F">#128C8F</div>
+            <div class="kleur mr-4" style="background-color: #91B508">#91B508</div>
+            <div class="kleur mr-4" style="background-color: #3C3C3B">#3C3C3B</div>
+            <div class="kleur mr-4" style="background-color: #777676">#777676</div>
+            <div class="kleur" style="background-color: #ACACAC">#ACACAC</div>
+        </div>
+    </div>
+</div>
+</div>
+
+<style>
+    :root {
     --accent-main: #128C8F;
     --accent-1: #91B508;
     --accent-2: #3C3C3B;
@@ -13,119 +37,7 @@
 
     --shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.3);;
 }
-
-.larger svg{
-    --dimensions: 50px;
-    height: var(--dimensions);
-    width: var(--dimensions);
-}
-
-* {
-    transition: 0.35s all ease;
-    font-family: var(--font-main) !important;
-    /* font-family: 'Din Pro' !important; */
-    box-sizing: border-box;
-}
-
-body {
-    /* padding-bottom: 50px; */
-}
-
-a, p, h1, h2, h3, h4, h5, h6 {
-    color: var(--accent-2);
-}
-
-p {
-    font-size: 1.2rem;
-}
-
-h1 {
-    font-weight: 900;
-    margin-bottom: 7px;
-}
-
-h3 {
-    font-weight: 700;
-}
-
-h3 + p {
-    margin-top: 21px;
-}
-
-span.txt-color-white svg {
-    color: white !important;
-}
-
-.clickable {
-    cursor: pointer;
-}
-
-.bd-radius-sm {
-    border-radius: var(--border-radius-sm);
-}
-
-/* ****************** */
-
-.jumbotron#intro {
-    height: 100vh;
-    margin-bottom: 100px;
-}
-
-.section {
-    height: 100vh;
-}
-
-/* CONTAINER */
-
-    .container.section {
-        height: 100vh;
-    /* margin-bottom: 100px; */
-    }
-
-/* ROW */
-
-    .row.section {
-        margin-bottom: 50px;
-    }
-
-/* FLOAT BOX */
-
-    div.backhalf + .float-box {
-        margin-top: -100px;
-    }
-
-    .float-box {
-        background-color: white;
-        box-shadow: var(--shadow);
-        border-radius: var(--border-radius);
-        padding: 50px;
-    }
-
-/* SECTION WIFI */
-
-#wifi {
-    background-image: url(../assets/images/CAT.gif);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position-x: right;
-}
-
-/* SECTION DOWNLOAD */
-
-#bg-phones {
-    background-image: url(../assets/images/mockup/MOCKUP_COMBO.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position-x: right;
-}
-
-/* ICONS FEATHER */
-
-    svg.feather {
-        color: var(--accent-2);
-    }
-
-/* UI STYLE GUIDE */
+    /* UI STYLE GUIDE */
     /* FORMS */
         :focus {
             box-shadow: none;
@@ -229,11 +141,4 @@ span.txt-color-white svg {
             letter-spacing: 2px;
             font-size: small;
         }
-
-/* MEDIA QUERIES */
-
-@media (min-width: 992px) {
-    /* .container {
-        max-width: 860px;
-    }*/
-}
+</style>

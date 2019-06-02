@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1212" height="423" viewBox="0 0 1212 423">
+  <defs>
+    <filter id="Rectangle_67" x="0" y="0" width="1212" height="423" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="37" result="blur"/>
+      <feFlood flood-opacity="0.153"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="hexagon" x="518.947" y="115.229" width="179.795" height="193.41" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9.5" result="blur-2"/>
+      <feFlood flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_208" data-name="Group 208" transform="translate(-16690 -14974)">
+    <g transform="matrix(1, 0, 0, 1, 16690, 14974)" filter="url(#Rectangle_67)">
+      <rect id="Rectangle_67-2" data-name="Rectangle 67" width="990" height="201" rx="70" transform="translate(111 111)" fill="#fff"/>
+    </g>
+    <g id="Group_206" data-name="Group 206" transform="translate(17149.418 15031.07)">
+      <g id="Group_20" data-name="Group 20" transform="translate(88.029 86.658)">
+        <g transform="matrix(1, 0, 0, 1, -547.45, -143.73)" filter="url(#hexagon)">
+          <path id="hexagon-2" data-name="hexagon" d="M125.794,97.495V42.92a13.644,13.644,0,0,0-6.822-11.8L71.219,3.83a13.644,13.644,0,0,0-13.644,0L9.822,31.118A13.644,13.644,0,0,0,3,42.92V97.495a13.644,13.644,0,0,0,6.822,11.8l47.753,27.288a13.644,13.644,0,0,0,13.644,0L118.972,109.3A13.644,13.644,0,0,0,125.794,97.495Z" transform="translate(544.45 141.73)" fill="#128c8f"/>
+        </g>
+        <g id="Group_18" data-name="Group 18" transform="translate(26.801 31.164)">
+          <text id="_27" data-name="27" transform="translate(33 54)" fill="#fff" font-size="52" font-family="DINPro-Black, DIN Pro" font-weight="800" letter-spacing="0.14em"><tspan x="-32.552" y="0">27</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="award" transform="translate(17474.434 15157.43)">
+      <ellipse id="Ellipse_59" data-name="Ellipse 59" cx="17.564" cy="17.563" rx="17.564" ry="17.563" transform="translate(0 0)" fill="none" stroke="#3c3c3b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path id="Path_124" data-name="Path 124" d="M10.036,13.905,7,36.762l12.545-7.527,12.545,7.527L29.055,13.88" transform="translate(-1.982 18.436)" fill="none" stroke="#3c3c3b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+    <g id="compass" transform="translate(17629 15155.43)">
+      <circle id="Ellipse_60" data-name="Ellipse 60" cx="27.535" cy="27.535" r="27.535" transform="translate(2 2)" stroke-width="5" stroke="#3c3c3b" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path id="Path_125" data-name="Path 125" d="M31.11,7.76,25.272,25.272,7.76,31.11,13.6,13.6Z" transform="translate(10.1 10.1)" fill="none" stroke="#3c3c3b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+    <path id="zap" d="M31.6,2,3,36.32H28.74L25.88,59.2l28.6-34.32H28.74Z" transform="translate(16908.035 15155.43)" fill="none" stroke="#3c3c3b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <g id="Group_207" data-name="Group 207" transform="translate(16855 13414)">
+      <path id="message-circle" d="M60.2,30.011a26.629,26.629,0,0,1-2.86,12.075A27.011,27.011,0,0,1,33.189,57.021a26.63,26.63,0,0,1-12.075-2.86L3,60.2,9.038,42.086a26.629,26.629,0,0,1-2.86-12.075A27.011,27.011,0,0,1,21.113,5.86,26.63,26.63,0,0,1,33.189,3h1.589A26.947,26.947,0,0,1,60.2,28.422Z" transform="translate(208.221 1740.429)" fill="none" stroke="#3c3c3b" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <text id="_3" data-name="3" transform="translate(241 1783)" fill="#128c8f" font-size="34" font-family="DINPro-Black, DIN Pro" font-weight="800" letter-spacing="0.14em"><tspan x="-9.452" y="0">3</tspan></text>
+    </g>
+  </g>
+</svg>
