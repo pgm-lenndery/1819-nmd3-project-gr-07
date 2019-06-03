@@ -7,81 +7,66 @@ published: true
 title: Interview Guideline
 ---
 
-<h1>Interview/Enquête</h1>
+Aangezien we na onze enquête meer dan 125 antwoorden hadden hebben we besloten om geen interviews meer te houden met mensen. De enquête was onze eigenlijk interview, maar dan online.
 
-<p>Mits na onze enquête, meer dan 125 antwoorden hadden, hadden we besloten om geen interviews meer te houden met mensen. De enquête was onze eigenlijk interview, maar dan online. </p>
+## Vragen enquête
+### Sectie 1
 
-<h2>Vragen enquête</h2>
-<h3>Sectie 1</h3>
-<ul>
-<li>Leeftijd</li>
-<li>Geslacht</li>
-</ul>
+- Leeftijd
+- Geslacht
 
-<h3>Sectie 2: Volwassenen</h3>
-<ul>
-<li>Beroep</li>
-<li>Komt u in aanraking met kinderen/jongeren?</li>
-</ul>
+### Sectie 2: Volwassenen
 
-<h3>Sectie 3: Volwassenen</h3>
-<ul>
-<li>Interesses</li>
-<li>In welke provincie woont u?</li>
-</ul>
+- Beroep
+- Komt u in aanraking met kinderen/jongeren?
 
-<h3>Sectie 4: Limburg</h3>
-<ul>
-<li>Welke parken bezocht u al? (Limburg)</li>
-</ul>
+### Sectie 3: Volwassenen
 
-<h3>Sectie 5: Oost-Vlaanderen</h3>
-<ul>
-<li>Welke parken bezocht u al? (Oost-Vlaanderen)</li>
-</ul>
+- Interesses
+- In welke provincie woont u?
 
-<h3>Sectie 6: Vlaams-Brabant</h3>
-<ul>
-<li>Welke parken bezocht u al? (Vlaams-Brabant)</li>
-</ul>
+### Sectie 4: Limburg
 
-<h3>Sectie 7: West-Vlaanderen</h3>
-<ul>
-<li>Welke parken bezocht u al? (West-Vlaanderen)</li>
-</ul>
+- Welke parken bezocht u al? (Limburg)
 
-<h3>Sectie 8: Algemeen</h3>
-<ul>
-<li>Welke parken bezocht u al? (Algemeen)</li>
-</ul>
+### Sectie 5: Oost-Vlaanderen
 
-<h3>Sectie 9: Deel 3</h3>
-<ul>
-<li>Kent u het Provinciaal Domein van Huizingen?</li>
-</ul>
+- Welke parken bezocht u al? (Oost-Vlaanderen)
 
-<h3>Sectie 10: Deel 3.1</h3>
-<ul>
-<li>Zou u het domein beter willen leren kennen?</li>
-</ul>
+### Sectie 6: Vlaams-Brabant
 
-<h3>Sectie 11: Deel 3.1.1</h3>
-<ul>
-<li>Waarom niet?</li>
-</ul>
+- Welke parken bezocht u al? (Vlaams-Brabant)
 
-<h3>Sectie 12: Deel 3.2</h3>
-<ul>
-<li>Hoe zou u dat willen doen?</li>
-<li>Zou u graag begeleiding hierbij willen?</li>
-</ul>
+### Sectie 7: West-Vlaanderen
 
-<h3>Sectie 13: Deel 3.3</h3>
-<ul>
-<li>Hoe zou begeleid willen worden</li>
-</ul>
+- Welke parken bezocht u al? (West-Vlaanderen)
 
-<h3>Sectie 14: Bedankt voor je interesse</h3>
-<ul>
-<li>Onderzoek toch verder zetten/Onderzoek beëindigen</li>
-</ul>
+### Sectie 8: Algemeen
+
+- Welke parken bezocht u al? (Algemeen)
+
+### Sectie 9: Deel 3
+
+- Kent u het Provinciaal Domein van Huizingen?
+
+### Sectie 10: Deel 3.1
+
+- Zou u het domein beter willen leren kennen?
+
+### Sectie 11: Deel 3.1.1
+
+- Waarom niet?
+
+### Sectie 12: Deel 3.2
+
+- Hoe zou u dat willen doen?
+- Zou u graag begeleiding hierbij willen?
+
+
+### Sectie 13: Deel 3.3
+
+- Hoe zou begeleid willen worden
+
+### Sectie 14: Bedankt voor je interesse
+
+- Onderzoek toch verder zetten/Onderzoek beëindigen

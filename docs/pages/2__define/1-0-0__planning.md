@@ -7,47 +7,45 @@ published: true
 title: Planning
 ---
 
-<div class="container">
-<strong><p>19 februari</p> </strong>
-<p> Briefing van de opdracht</p>
 
-<strong><p>25 februari</p> </strong>
-<p> Deskresearch van het Domein van Huizingen</p> 
+**19 februari**
+Briefing van de opdracht
 
-<strong><p>26 februari</p></strong>
-<p> Maken van enquête</p>
+**25 februari**
+Deskresearch van het Domein van Huizingen 
 
-<strong><p>10 maart</p></strong>
-<p> Doelgroep beslissen</p>
+**26 februari**
+Maken van enquête
 
-<strong><p>15 maart</p></strong>
-<p> Brainstorm idee</p>
+**10 maart**
+Doelgroep beslissen
 
-<strong><p>26 maart</p></strong>
-<p> Pitch</p>
+**15 maart**
+Brainstorm idee
 
-<strong><p>27 maart</p></strong>
-<p> Pitch aanpassen en verder brainstormen</p>
+**26 maart**
+Pitch
 
-<strong><p>8 april</p></strong>
-<p> Style tile</p>
+**27 maart**
+Pitch aanpassen en verder brainstormen
 
-<strong><p>10 april</p></strong>
-<p> Beginnen met de wireframes te maken</p>
+**8 april**
+Style tile
 
-<strong><p>25 april</p></strong>
-<p> Beginnen met de designs te maken</p>
+**10 april**
+Beginnen met de wireframes te maken
 
-<strong><p>5 mei</p></strong>
-<p> Prototype</p>
+**25 april**
+Beginnen met de designs te maken
 
-<strong><p>15 mei</p></strong>
-<p> User testing</p>
+**5 mei**
+Prototype
 
-<strong><p>20 mei</p></strong>
-<p> Second screen maken + afwerken</p>
+**15 mei**
+User testing
 
-<strong><p>30 mei</p></strong>
-<p> Site afwerken + voorbereiden examen</p>
+**20 mei**
+Second screen maken + afwerken
 
-</div>
+**30 mei**
+Site afwerken + voorbereiden examen
