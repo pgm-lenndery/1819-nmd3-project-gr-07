@@ -3,26 +3,35 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1
+  task: Proto personas.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Enquête.
 -
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Planning.
+-
+  time: 1
+  task: Pitch.
 -
   time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Style tile.
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 7
+  task: Digital prototype smartphone (beide versies).
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Digitaal prototype smartwatch.
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Digitaal prototype website.
+-
+  time: 4
+  task: Website uitwerken.
+-
+  time: 3
+  task: UI Style guide.
+-
+  time: 4
+  task: Invullen digitaal dossier.
