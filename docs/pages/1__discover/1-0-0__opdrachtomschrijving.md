@@ -19,7 +19,7 @@ Het Domein van Huizingen
 ## De app
 Om (voornamelijk) jongeren aan te zetten tot bewegen besloten we een app te ontwikkelen waarin je punten verdiend naar gelang de hoeveelheid activtiteiten je doet. Hoe meer activiteiten je doet, hoe meer punten je verdiend. Je kan dit in groep doen, of alleen.
 
-Met deze punten kan je beeloningen claimen, hoe hoger je puntenaantal, hoe groter de beloning. Dat kan gaan van korting op je inkom tot een gratis maaltijd in de resto.
+Met deze punten kan je beloningen claimen, hoe hoger je puntenaantal, hoe groter de beloning. Dat kan gaan van korting op je inkom tot een gratis maaltijd in de resto.
 
 De app stelt de gebruiker in staat z'n punten goed op te volgen en toont hoeveel je er nog behalen alvorens je recht hebt op een beloning.
 
