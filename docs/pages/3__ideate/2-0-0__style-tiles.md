@@ -13,5 +13,5 @@ title: Style Tiles
 ### Versie 1 - Jorne
 <img class="mb-4" src="{{ site.baseurl }}/assets/images/styletile_jorne.jpg" width="100%">
 
-### Versie 1 - Lennert
+### Versie 2 - Lennert
 <img src="{{ site.baseurl }}/assets/images/STYLETILE_LENNERT.svg" width="100%">
