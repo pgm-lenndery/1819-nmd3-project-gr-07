@@ -10,4 +10,8 @@ title: Style Tiles
   Het laden kan even duren
 </div>
 
-<object width="100%" height="100%" data="../../assets/files/styletile.pdf"></object>
+### Versie 1 - Jorne
+<img class="mb-4" src="{{ site.baseurl }}/assets/images/styletile_jorne.jpg" width="100%">
+
+### Versie 1 - Lennert
+<img src="{{ site.baseurl }}/assets/images/STYLETILE_LENNERT.svg" width="100%">

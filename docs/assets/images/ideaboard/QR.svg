@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2336" height="2336" viewBox="0 0 2336 2336">
+  <g id="Group_219" data-name="Group 219" transform="translate(-21593 -22675)">
+    <rect id="Rectangle_70" data-name="Rectangle 70" width="2336" height="2336" transform="translate(21593 22675)" fill="#128c8f"/>
+    <g id="Group_218" data-name="Group 218" transform="translate(22191 23273)">
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="251.364" height="251.364" rx="6.948" transform="translate(187.173 187.173)" stroke-width="35" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect id="Rectangle_72" data-name="Rectangle 72" width="247.463" height="247.463" rx="6.84" transform="translate(187.173 704.845)" stroke-width="35" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect id="Rectangle_73" data-name="Rectangle 73" width="251.364" height="251.364" rx="6.948" transform="translate(700.943 187.173)" stroke-width="35" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect id="Rectangle_74" data-name="Rectangle 74" width="132.802" height="132.802" rx="3.671" transform="translate(760.224 762.175)" stroke-width="35" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path id="Path_137" data-name="Path 137" d="M187.163,0H0V187.163" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="35"/>
+      <path id="Path_138" data-name="Path 138" d="M424.063,236.9V424.063H236.9" transform="translate(715.398 715.398)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="35"/>
+      <path id="Path_139" data-name="Path 139" d="M0,236.9V424.063H187.163" transform="translate(0 715.398)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="35"/>
+      <path id="Path_140" data-name="Path 140" d="M424.063,187.163V0H236.9" transform="translate(715.398)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="35"/>
+    </g>
+  </g>
+</svg>
