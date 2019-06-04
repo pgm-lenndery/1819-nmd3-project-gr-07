@@ -18,11 +18,17 @@
   time: 0.50
   task: Pitch.
 -
+  time: 2.50
+  task: Brainstorm.
+-
   time: 2
   task: Style tile.
 -
   time: 6
-  task: Opmaak wireframes/paper prototype.
+  task: Opmaak wireframes/paper prototype smartphone.
+-
+  time: 2
+  task: Opmaak wireframes/paper prototype 2nd screen.
 -
   time: 7
   task: Invullen digitaal dossier.
